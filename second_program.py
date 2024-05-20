@@ -1,0 +1,1 @@
+print ("I am as cool as my program ICE")
